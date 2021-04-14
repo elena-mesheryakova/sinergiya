@@ -63,7 +63,7 @@ body {
   }
 
   .feedback {
-    background: url("/images/img-banner.png") no-repeat 84% 50%;
+    background: url("../images/img-banner.png") no-repeat 84% 50%;
     background-color: #eff2f9;
     padding-top: 170px;
     &__title {
@@ -91,7 +91,7 @@ body {
     }
   }
   .banner {
-    background: url("/images/img-banner.png") no-repeat 90% 95%;
+    background: url("../images/img-banner.png") no-repeat 90% 95%;
     background-color: #eff2f9;
     .univers {
       padding-top: 90px;
@@ -274,7 +274,7 @@ body {
     }
   }
   .work {
-    background: url("/images/XMLID.png") no-repeat 5% top;
+    background: url("../images/XMLID.png") no-repeat 5% top;
     background-color: rgba($color: #714a25, $alpha: 0.03);
     .work__title {
       text-align: center;
@@ -325,7 +325,7 @@ body {
     }
   }
   .diploms {
-    background: url("/images/XMLID2.png") no-repeat right top;
+    background: url("../images/XMLID2.png") no-repeat right top;
     background-color: #eff2f9;
     &__wrap {
       display: flex;
@@ -544,7 +544,7 @@ body {
     }
   }
   .faq {
-    background: url("/images/XMLID3.png") no-repeat right top;
+    background: url("../images/XMLID3.png") no-repeat right top;
     background-color: #eff2f9;
     &__title {
       padding-top: 130px;
